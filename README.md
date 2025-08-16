@@ -6,6 +6,6 @@ Foi desenvolvida uma DAG no AirFlow que consulta a API https://www.visualcrossin
 ## Resultado
 * **dados_climaticos.py - Script Python que implementa uma DAG no Airflow. Utiliza os operadores BASH e Python. É necessário trocar o parâmetro "key" para conseguir consultar a API;
 * **semana_2025-08-04: resultado do script, pasta com a data que foi feita a consulta e a previsão dos próximos 7 dias.
-*   **dados_brutos.csv: dados brutos da consulta da API;
-*   **condicoes.csv: dados separados da previsão da condição do clima;
-*   **temperatura.csv: dados separados da previsão de temperatura.
+*     **dados_brutos.csv**: dados brutos da consulta da API;
+*     **condicoes.csv**: dados separados da previsão da condição do clima;
+*     **temperatura.csv**: dados separados da previsão de temperatura.
